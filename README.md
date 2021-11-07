@@ -1,1 +1,1 @@
-## Nem hivatalos kliens alkalkalmazás a telex.hu hírportálhoz.
+## Nem hivatalos kliens alkalmazás a telex.hu hírportálhoz.
